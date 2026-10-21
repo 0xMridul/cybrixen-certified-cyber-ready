@@ -7,21 +7,33 @@ A record of my **CYBRIXEN Certified Cyber Ready (CCCR)** certification.
 ![CYBRIXEN Certified Cyber Ready certificate](certificate.png)
 
 ## Credential Details
+# CYBRIXEN Certified Cyber Ready (CCCR)
 
-- **Credential:** CYBRIXEN Certified Cyber Ready (CCCR)
-- **Issuer:** CYBRIXEN
+A professional record of my **CYBRIXEN Certified Cyber Ready (CCCR)** certification, documenting my continued learning and development in cybersecurity.
+
+## Certificate
+
+![CYBRIXEN Certified Cyber Ready Certificate](certificate.png)
+
+## Credential Information
+
+- **Certification:** CYBRIXEN Certified Cyber Ready (CCCR)
+- **Issuing Organization:** CYBRIXEN
 - **Recipient:** Kazi Mazharul Islam Mridul
-- **Issue date:** 21 October 2026
 - **Certificate ID:** `CCCR-2026-0659`
+- **Issue Date:** October 21, 2026
 
-## About
+## Certificate Verification
 
-This repository preserves the certificate image and documents the credential for portfolio and professional reference.
+The certificate details can be accessed through the official CYBRIXEN credential portal.
 
-## Verification
+**[View Certificate and Verification Details](https://cybrixen.com/credentials/?id=CCCR-2026-0659)**
 
-For independent verification, use the issuer's official verification channel if one is available. No verification URL has been included because none was provided with the certificate.
+## Repository Contents
+
+- `certificate.png` — Certificate image
+- `README.md` — Credential documentation and verification reference
 
 ---
 
-*The certificate image is reproduced for portfolio documentation. Please refer to the issuer for authoritative credential verification.*
+*Maintained as part of my professional learning and cybersecurity portfolio.*
